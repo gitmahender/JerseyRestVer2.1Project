@@ -1,0 +1,14 @@
+
+Webservice url:
+http://localhost:8080/myJerseyProject/myJerseyService
+
+Requried java version: 1.8 or later
+
+Jax-rs version: 2.1
+jersey version: 2.35
+
+
+Refer:
+Servlet configuration in web.xml file
+MyApplication file extends application file.
+BikeService - this is the actual webservice
